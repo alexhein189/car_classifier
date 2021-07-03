@@ -6,3 +6,5 @@ I learnt the conceptualisations of CNN by correctly calculating images sizes thr
 
 This is the kaggle I used:
 https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder
+
+The files are also included. Please do change the file path when you do use this code. 
